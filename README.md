@@ -6,7 +6,7 @@
 
 <br>
 
-## :wave: Contatct 
+## :wave: Contact 
 <a href="https://www.linkedin.com/in/kwontaehyun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kygkth2011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kygkth2011@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
